@@ -1,0 +1,1 @@
+"C:\run-hidden\run-hidden.exe" "C:\Program Files\PowerShell\7\pwsh.exe"  -command "Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.Clipboard]::SetText('%V')"
