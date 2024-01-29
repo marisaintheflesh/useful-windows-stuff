@@ -1,0 +1,8 @@
+Registry Key: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced
+Registry Value Name: ShowSecondsInSystemClock
+Registry Value Type: DWORD (32-bit)
+Registry Value: 1
+
+To have the seconds show up immediately without a restart, 
+use Task Manager to kill all instances of explorer.exe, then use Task Manager to
+relaunch explorer.exe
